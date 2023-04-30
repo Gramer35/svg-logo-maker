@@ -1,8 +1,8 @@
-const logoShape = require('./lib/shapes.js');
+const Logo = require('./lib/logoGen.js');
 
-const shapes = new logoShape():
+const logoGen = new Logo();
 
-shapes.run();
+logoGen.run();
 
 
 
