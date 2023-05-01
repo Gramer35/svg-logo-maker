@@ -1,13 +1,8 @@
-const logoGen = require('./lib/logoGen.js');
+const LOGO = require('./lib/logoGen.js');
 
-// const logoGen = Logo();
+const logoGen = new LOGO();
 
 logoGen();
 
 
 
-// function logoGen() {
-
-// };
-
-// logoGen()
