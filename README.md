@@ -6,9 +6,7 @@ This project allows the user to create their very own custom SVG logo! The user 
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+To use this project, user must install inquirer for the prompts and jest for the test. Once done, user must open integrated terminal of index.js and then enter 'node index.js'. After that it's as simple as responding to the prompts! To run the test, the user must enter 'npm run test'.
 
 ![Logo](lib/images/logo.jpeg)
 
